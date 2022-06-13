@@ -40,6 +40,7 @@ function draw() {
 
   // Draw background
   g.drawImage(img);
+  g.setColor(1, 1, 1);
 
   // draw the current time
   g.setFontAlign(1,1); // align right bottom
